@@ -93,12 +93,12 @@ body {
   list-style: none;
   padding-left: 0;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 .projetos li {
   list-style-type: none;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 2em;
 }
 
@@ -106,7 +106,7 @@ body {
   list-style: none;
   padding-left: 0;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 .conquistas li {
@@ -114,7 +114,8 @@ body {
 }
 
 .conquistas img {
-  max-height: 100px;
+  max-height: 130px;
+  border-radius: 10px;
 }
 
 .dark {
